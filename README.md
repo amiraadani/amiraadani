@@ -1,6 +1,6 @@
 # Hi, I'm [Amira Adani]
 
-[Computer Science student at UiTM interested in software engineering and AI.]
+[Computer Science student at UiTM interested in Machine Learning and AI.]
 
 ## About me
 - Studying: [Bachelor of Computer Science (Hons.)], UiTM
