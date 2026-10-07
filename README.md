@@ -8,11 +8,11 @@
 - My FYP area: [Machine Learning, Artificial Intelligence]
 
 ## Skills and tools
-[Java, C++, Python, SQL]
+[Java, C++, Python, SQL, Excel]
 
 ## Projects
-- [OCR AND PREDICTIVE ANALYSIS EXPENSE TRACKER](link-to-your-repository)
+- [OCR AND PREDICTIVE ANALYSIS EXPENSE TRACKER](https://github.com/amiraadani/amiraadani/edit/main/README.md)
 
 ## Contact
-- LinkedIn: [your profile link]
-- Email: [a professional email address]
+- LinkedIn: [https://www.linkedin.com/in/amira-adani-binti-sabarudin-6a7053414?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
+- Email: [amiraadani33@gmail.com]
